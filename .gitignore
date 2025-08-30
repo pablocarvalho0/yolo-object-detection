@@ -1,0 +1,15 @@
+# Arquivos e pastas gerados pela biblioteca Ultralytics
+/datasets/
+/runs/
+*.pt
+
+# Cache e arquivos de sistema do Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+
+# Ambientes virtuais (boa prática)
+.venv/
+venv/
+env/
